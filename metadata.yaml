@@ -1,0 +1,33 @@
+_repo: Henrietta-Temple--A-Love-Story_19771
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19771-h/images/coverplates.jpg
+creator:
+  author:
+    agent_name: Disraeli, Benjamin, Earl of Beaconsfield
+    alias: Disraeli, B. (Benjamin), Earl of Beaconsfield
+    birthdate: 1804
+    deathdate: 1881
+    gutenberg_agent_id: '1292'
+    url: http://www.gutenberg.org/2009/agents/1292
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
+description: ''
+gutenberg_issued: '2006-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Upper class families -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Dandies -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+title: 'Henrietta Temple: A Love Story'
+url: http://www.gutenberg.org/ebooks/19771
